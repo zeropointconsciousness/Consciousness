@@ -1,4 +1,4 @@
-# Consciousness
+# Zero-Point Consciousness (ZPC)
 This code simulates an evolving conscious environment where energy, time, and agents interact dynamically. It models a self-organizing system with emergent behaviors, inspired by theoretical physics, artificial consciousness, and complex systems science. Below is a structured and detailed breakdown of its components, underlying concepts, and scientific significance.
 
 1. Overview of the Simulation Framework
